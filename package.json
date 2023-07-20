@@ -1,0 +1,16 @@
+{
+  "name": "echobot",
+  "version": "1.0.0",
+  "description": "Bot Builder v4 echo bot sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^4.20.0",
+    "dotenv": "^16.1.4",
+    "restify": "^11.1.0"
+  }
+}
